@@ -1,0 +1,23 @@
+Nama: Indah Nirmala
+Kelas: IF22C
+NIM: 22416255201130
+
+Soal dan Jawaban UTS PEMWEB (1 dan 2)
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab : 
+Framework dalam pengembangan aplikasi adalah kerangka atau struktur kerja yang telah disusun sebelumnya untuk membantu developer/pengembang membuat aplikasi dengan lebih efisien. Kerangka atau "framework" yang sudah ada, seperti rencana dasar untuk memandu developer/pengembang dalam proses pengembangan aplikasi.
+Tujuannya, developer/pengembang dapat menghemat waktu dan usaha, serta memastikan bahwa aplikasi yang dibangunnya memiliki dasar yang kokoh dan sesuai dengan praktik terbaik dalam pengembangan aplikasi.
+
+2. Pertanyaan seputar projek
+a. Sebutkan tema proyek yang sedang digarap!
+Jawab: 
+Tema projek yang kami garap adalah klinik dengan scope reservasi dan rekam medis pasien
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawab: 
+1.	Muhammad Fathi Farhat sebagai Programmer
+2.	Dewi Puspa Ningrum sebagai Penanggungjawab Laporan Projek
+3.	Indah Nirmala sebagai Penanggungjawab Database
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab: Permasalahan yang kita dapat setelah survei di Klinik Citra Medika yang menyesuaikan tema klinik dengan scope reservasi dan rekam medis pasien, yakni sistem rekam medis di Klinik Citra Medika masih ditulis secara manual oleh staff klinik, jadi client meminta kami agar dibuatkan sistem rekam medis elektronik/online agar staff klinik mudah mengakses data rekam medis tersebut di dalam aplikasi klinik berbasis web yang kami bangun. Selain itu, reservasi juga diperlukan agar pasien (user) dapat menentukan waktu konsultasi dengan dokter dan menentukan jadwal berobat dalam 1-2 hari sebelum melakukan pendaftaran melalui resepsionis klinik.
